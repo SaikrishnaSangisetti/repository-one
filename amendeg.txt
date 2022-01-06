@@ -1,3 +1,6 @@
 adding content for commit
+<<<<<<< HEAD
 
 adding content for amend
+=======
+>>>>>>> 9ae9a643562a00e61f90cef16bd1eb849757ddf9
