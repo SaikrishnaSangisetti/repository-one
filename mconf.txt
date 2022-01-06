@@ -1,2 +1,2 @@
 this is for checking merge conflict
-this line is from feature1 branch
+this line is from both the branches
